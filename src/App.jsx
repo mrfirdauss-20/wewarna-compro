@@ -1,11 +1,10 @@
 import { LangProvider } from './i18n/LangContext'
+import Nav from './components/sections/Nav'
 
 export default function App() {
   return (
     <LangProvider>
-      <div id="app-root">
-        {/* Sections added task by task */}
-      </div>
+      <Nav />
     </LangProvider>
   )
 }
