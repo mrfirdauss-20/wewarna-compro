@@ -17,7 +17,7 @@ export default function Hero() {
   return (
     <>
       <style>{`
-        .hero{position:relative;padding:64px 0 96px}
+        .hero{position:relative;padding-top:64px;padding-bottom:96px}
         .hero-grid{display:grid;grid-template-columns:1.05fr 1fr;gap:64px;align-items:end}
         .hero-eyebrow{display:flex;gap:14px;align-items:center;margin-bottom:34px}
         .hero-eyebrow .line{width:42px;height:1px;background:var(--ink)}

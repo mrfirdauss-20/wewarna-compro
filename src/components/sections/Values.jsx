@@ -6,7 +6,7 @@ export default function Values() {
   return (
     <>
       <style>{`
-        .values{padding:120px 0}
+        .values{padding-top:120px;padding-bottom:120px}
         .v-grid{display:grid;grid-template-columns:1.1fr 1fr;gap:80px;align-items:start}
         .v-list{display:grid;gap:0}
         .v-item{display:grid;grid-template-columns:60px 1fr auto;gap:24px;align-items:center;padding:28px 0;border-bottom:1px solid var(--line)}
