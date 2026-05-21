@@ -1,0 +1,130 @@
+{
+  "nav": {
+    "links": [
+      { "label": "Collection", "anchor": "collection" },
+      { "label": "Our Story",  "anchor": "story" },
+      { "label": "The Craft",  "anchor": "process" },
+      { "label": "Lookbook",   "anchor": "lookbook" },
+      { "label": "Contact",    "anchor": "contact" }
+    ],
+    "cta": "Inquire on WhatsApp",
+    "atelier": "Blitar, East Java · Indonesia"
+  },
+  "hero": {
+    "eyebrow": "Wewarna Ecoprint · Est. Blitar, East Java",
+    "headline1": "The garden,",
+    "headline2": "pressed into",
+    "headlineItalic": "silk.",
+    "sub": "Wewarna is a slow-fashion atelier crafting one-of-one batik pieces through the ancient art of ecoprint — leaves, blossoms and roots steamed onto natural fibres until the earth itself signs the cloth.",
+    "ctaPrimary": "Shop the Collection",
+    "ctaSecondary": "Our craft",
+    "badge": "Made in Blitar",
+    "sideTag": "Lookbook · SS '26 · Daun Jati",
+    "stats": [
+      { "value": "100%", "label": "Plant Dyed" },
+      { "value": "1/1",  "label": "Unique Pieces" },
+      { "value": "14d",  "label": "Per Garment" }
+    ]
+  },
+  "marquee": [
+    "Daun Jati", "Jarak", "Lanang", "Kalpataru",
+    "Eucalyptus", "Daun Kelor", "Kenikir", "Mahoni"
+  ],
+  "collection": {
+    "eyebrow": "The Collection",
+    "headline": "The SS '26 collection",
+    "headlineItalic": "SS '26",
+    "side": "Each piece in our seasonal edit is dyed only once — when the leaves fall, the colour is born. Browse made-to-order silhouettes or request a bespoke commission for an heirloom of your own.",
+    "inquireTemplate": "Halo Wewarna, I'd love to inquire about {name}.",
+    "products": [
+      { "id": "p1", "slot": "c-a", "tag": "New",        "name": "Kalpataru Long Dress", "sub": "Silk · Eucalyptus dye",        "price": "IDR 4.850K", "image": "" },
+      { "id": "p2", "slot": "c-b", "tag": "Signature",  "name": "Daun Jati Tote",       "sub": "Cotton canvas · Teak leaf",    "price": "IDR 1.250K", "image": "" },
+      { "id": "p3", "slot": "c-c", "tag": "Limited",    "name": "Kembang Outer",         "sub": "Linen · Marigold + indigo",    "price": "IDR 3.400K", "image": "" },
+      { "id": "p4", "slot": "c-d", "tag": "One-of-One", "name": "Lanang Kaftan",         "sub": "Silk crepe · Botanical bundle","price": "IDR 5.200K", "image": "" },
+      { "id": "p5", "slot": "c-e", "tag": "Bestseller", "name": "Sirih Sling Bag",       "sub": "Veg-tan leather · Betel print","price": "IDR 1.890K", "image": "" },
+      { "id": "p6", "slot": "c-f", "tag": "New",        "name": "Mahoni Wide Pant",      "sub": "Cotton · Mahogany bark",       "price": "IDR 2.150K", "image": "" }
+    ]
+  },
+  "story": {
+    "eyebrow": "Our Atelier",
+    "headline": "From the foothills of Mount Kelud, a quieter",
+    "headlineItalic": "kind of luxury.",
+    "body": [
+      "Wewarna was founded in 2019 in a workshop tucked between rice fields and rambutan trees. Every garment passes through the hands of six artisans — from the leaf-gatherer who walks at dawn to the master mordanter who awakens the colour with iron-water from our own well.",
+      "There are no chemical dyes, no shortcuts, no two pieces alike. What we make is the slow record of a season, wearable."
+    ],
+    "quote": "We do not print patterns onto cloth. We invite the cloth to remember the forest.",
+    "attribution": "Ibu Sari, Master Artisan",
+    "image": "",
+    "captionTitle": "Bundle-dyeing session",
+    "captionSub": "Blitar · Spring '26"
+  },
+  "process": {
+    "eyebrow": "The Craft",
+    "headline": "How a leaf becomes",
+    "headlineItalic": "a dress.",
+    "side": "Ecoprint is a 14-day conversation between artisan, plant and fibre. Nothing is predictable; everything is intentional. Below, the four movements of our craft.",
+    "steps": [
+      { "n": "01", "title": "Gather",       "body": "Leaves and blossoms are foraged at dawn from the gardens around our atelier — teak, eucalyptus, marigold, betel.", "tag": "Forage" },
+      { "n": "02", "title": "Mordant",      "body": "Natural silk and linen are simmered in alum and iron from our well, opening the fibre to receive plant pigment.",   "tag": "Prepare" },
+      { "n": "03", "title": "Bundle",       "body": "Each leaf is hand-placed across the cloth, rolled around a copper rod and bound tight with cotton twine.",          "tag": "Compose" },
+      { "n": "04", "title": "Steam & Rest", "body": "Three hours of steam, fourteen days of rest. The pigment migrates, the print sets, the cloth becomes itself.",      "tag": "Reveal" }
+    ]
+  },
+  "lookbook": {
+    "eyebrow": "Lookbook",
+    "headline": "Lookbook SS '26",
+    "headlineItalic": "SS '26",
+    "side": "Photographed at our atelier and in the gardens that grow our pigment. Scroll horizontally to browse the season's chapters.",
+    "looks": [
+      { "id": "l1", "n": "Look 01", "title": "Kalpataru on linen",    "image": "" },
+      { "id": "l2", "n": "Look 02", "title": "Daun jati ensemble",    "image": "" },
+      { "id": "l3", "n": "Look 03", "title": "Indigo overlay coat",   "image": "" },
+      { "id": "l4", "n": "Look 04", "title": "Mahoni wide trouser",   "image": "" },
+      { "id": "l5", "n": "Look 05", "title": "Kembang silk kaftan",   "image": "" },
+      { "id": "l6", "n": "Look 06", "title": "Sirih sling, day worn", "image": "" }
+    ]
+  },
+  "values": {
+    "eyebrow": "What we stand for",
+    "headline": "A house built on",
+    "headlineItalic": "four quiet promises.",
+    "sub": "Glamour, for us, is not gloss. It is the conviction of a piece you will keep for thirty years — and then pass on.",
+    "items": [
+      { "n": "i.",   "title": "Plant-dyed, never pigmented",     "body": "Every colour you see is grown — never synthesised. The water we use returns clean to the land.",                                       "pin": "Sustainable" },
+      { "n": "ii.",  "title": "One garment, one season",         "body": "We release small editions only twice a year. When a piece is gone, it is gone — like the leaves that made it.",                         "pin": "Small batch" },
+      { "n": "iii.", "title": "Made by six pairs of hands",      "body": "From forager to finisher, our artisans are partners — paid above the East Java living wage, with a share of every sale.",              "pin": "Fair craft" },
+      { "n": "iv.",  "title": "Bespoke welcome",                 "body": "Send us a leaf from your garden and we will weave it into a piece that is irreducibly yours.",                                           "pin": "Commission" }
+    ]
+  },
+  "contact": {
+    "eyebrow": "Inquire",
+    "headline": "Begin a piece",
+    "headlineItalic": "of your own.",
+    "body": "Every Wewarna piece begins with a conversation. Tell us about the garment you are dreaming of — a leaf, a memory, an occasion — and our atelier will guide you through fabric, fit and finishing on WhatsApp.",
+    "cta": "Chat with us on WhatsApp",
+    "atelier": ["Jl. Anggrek No. 12", "Blitar, East Java"],
+    "atelierLabel": "Atelier",
+    "whatsappLabel": "WhatsApp",
+    "emailLabel": "Email",
+    "instagramLabel": "Instagram",
+    "email": "halo@wewarna.co.id",
+    "instagram": "@wewarnaecoprint",
+    "instagramUrl": "https://instagram.com/wewarnaecoprint"
+  },
+  "footer": {
+    "tagline": "Blitar, ID",
+    "copyright": "© 2026 · Crafted slowly",
+    "links": [
+      { "label": "Collection", "anchor": "collection" },
+      { "label": "Story",      "anchor": "story" },
+      { "label": "Craft",      "anchor": "process" },
+      { "label": "Contact",    "anchor": "contact" }
+    ]
+  },
+  "whatsapp": {
+    "number": "6281252762200",
+    "displayNumber": "+62 812 5276 2200",
+    "defaultMessage": "Halo Wewarna, saya ingin bertanya tentang produk Anda."
+  }
+}

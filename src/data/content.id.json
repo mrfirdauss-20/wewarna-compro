@@ -1,0 +1,130 @@
+{
+  "nav": {
+    "links": [
+      { "label": "Koleksi",     "anchor": "collection" },
+      { "label": "Kisah Kami",  "anchor": "story" },
+      { "label": "Proses",      "anchor": "process" },
+      { "label": "Lookbook",    "anchor": "lookbook" },
+      { "label": "Kontak",      "anchor": "contact" }
+    ],
+    "cta": "Tanya via WhatsApp",
+    "atelier": "Blitar, Jawa Timur · Indonesia"
+  },
+  "hero": {
+    "eyebrow": "Wewarna Ecoprint · Est. Blitar, Jawa Timur",
+    "headline1": "Kebun,",
+    "headline2": "tercetak di",
+    "headlineItalic": "sutra.",
+    "sub": "Wewarna adalah atelier slow-fashion yang menciptakan kain batik ecoprint satu-satunya melalui seni kuno mencetak daun — daun, bunga dan akar dikukus di atas serat alami hingga bumi menandatangani kain itu sendiri.",
+    "ctaPrimary": "Lihat Koleksi",
+    "ctaSecondary": "Cara kami",
+    "badge": "Dibuat di Blitar",
+    "sideTag": "Lookbook · SS '26 · Daun Jati",
+    "stats": [
+      { "value": "100%",    "label": "Pewarna Alami" },
+      { "value": "1/1",     "label": "Unik" },
+      { "value": "14 hari", "label": "Per Kain" }
+    ]
+  },
+  "marquee": [
+    "Daun Jati", "Jarak", "Lanang", "Kalpataru",
+    "Eucalyptus", "Daun Kelor", "Kenikir", "Mahoni"
+  ],
+  "collection": {
+    "eyebrow": "Koleksi",
+    "headline": "Koleksi SS '26",
+    "headlineItalic": "SS '26",
+    "side": "Setiap karya dalam koleksi musiman kami hanya dicelup sekali — saat daun gugur, warna pun lahir. Pilih siluet made-to-order atau pesan komisi bespoke untuk warisan Anda.",
+    "inquireTemplate": "Halo Wewarna, saya tertarik dengan {name}.",
+    "products": [
+      { "id": "p1", "slot": "c-a", "tag": "Baru",         "name": "Gaun Panjang Kalpataru", "sub": "Sutra · Pewarna Eucalyptus",      "price": "IDR 4.850K", "image": "" },
+      { "id": "p2", "slot": "c-b", "tag": "Signature",    "name": "Tote Daun Jati",          "sub": "Kanvas katun · Daun jati",        "price": "IDR 1.250K", "image": "" },
+      { "id": "p3", "slot": "c-c", "tag": "Terbatas",     "name": "Outer Kembang",           "sub": "Linen · Marigold + indigo",       "price": "IDR 3.400K", "image": "" },
+      { "id": "p4", "slot": "c-d", "tag": "Satu-satunya", "name": "Kaftan Lanang",            "sub": "Sutra crepe · Bundel botanikal",  "price": "IDR 5.200K", "image": "" },
+      { "id": "p5", "slot": "c-e", "tag": "Terlaris",     "name": "Tas Selempang Sirih",     "sub": "Kulit nabati · Cetak sirih",      "price": "IDR 1.890K", "image": "" },
+      { "id": "p6", "slot": "c-f", "tag": "Baru",         "name": "Celana Lebar Mahoni",     "sub": "Katun · Kulit pohon mahoni",      "price": "IDR 2.150K", "image": "" }
+    ]
+  },
+  "story": {
+    "eyebrow": "Atelier Kami",
+    "headline": "Dari lereng Gunung Kelud, kemewahan yang",
+    "headlineItalic": "lebih sunyi.",
+    "body": [
+      "Wewarna didirikan pada 2019 di sebuah bengkel yang terjepit di antara sawah dan pohon rambutan. Setiap kain melewati tangan enam pengrajin — dari pemetik daun yang berjalan di fajar hingga mordanter ahli yang membangkitkan warna dengan air besi dari sumur kami sendiri.",
+      "Tidak ada pewarna kimia, tidak ada jalan pintas, tidak ada dua karya yang sama. Yang kami buat adalah catatan lambat sebuah musim, yang bisa dikenakan."
+    ],
+    "quote": "Kami tidak mencetak motif di atas kain. Kami mengundang kain untuk mengingat hutan.",
+    "attribution": "Ibu Sari, Pengrajin Utama",
+    "image": "",
+    "captionTitle": "Sesi pencelupan bundel",
+    "captionSub": "Blitar · Musim Semi '26"
+  },
+  "process": {
+    "eyebrow": "Proses",
+    "headline": "Bagaimana daun menjadi",
+    "headlineItalic": "gaun.",
+    "side": "Ecoprint adalah percakapan 14 hari antara pengrajin, tanaman dan serat. Tidak ada yang bisa diprediksi; semua disengaja. Berikut empat gerakan kerajinan kami.",
+    "steps": [
+      { "n": "01", "title": "Petik",              "body": "Daun dan bunga dipetik di fajar dari kebun sekitar atelier kami — jati, eucalyptus, marigold, sirih.",                              "tag": "Forage" },
+      { "n": "02", "title": "Mordant",             "body": "Sutra dan linen alami direbus dengan tawas dan besi dari sumur kami, membuka serat untuk menerima pigmen tanaman.",                 "tag": "Persiapan" },
+      { "n": "03", "title": "Bundel",              "body": "Setiap daun diletakkan dengan tangan di atas kain, digulung mengelilingi tongkat tembaga dan diikat erat dengan benang katun.",    "tag": "Komposisi" },
+      { "n": "04", "title": "Kukus & Istirahat",   "body": "Tiga jam pengukusan, empat belas hari istirahat. Pigmen bermigrasi, cetakan terbentuk, kain menjadi dirinya sendiri.",             "tag": "Reveal" }
+    ]
+  },
+  "lookbook": {
+    "eyebrow": "Lookbook",
+    "headline": "Lookbook SS '26",
+    "headlineItalic": "SS '26",
+    "side": "Difoto di atelier kami dan di kebun yang menumbuhkan pigmen kami. Geser horizontal untuk menjelajahi bab-bab musim.",
+    "looks": [
+      { "id": "l1", "n": "Look 01", "title": "Kalpataru di linen",      "image": "" },
+      { "id": "l2", "n": "Look 02", "title": "Ensemble daun jati",      "image": "" },
+      { "id": "l3", "n": "Look 03", "title": "Mantel overlay indigo",   "image": "" },
+      { "id": "l4", "n": "Look 04", "title": "Celana lebar mahoni",     "image": "" },
+      { "id": "l5", "n": "Look 05", "title": "Kaftan sutra kembang",    "image": "" },
+      { "id": "l6", "n": "Look 06", "title": "Tas sirih, dikenakan",    "image": "" }
+    ]
+  },
+  "values": {
+    "eyebrow": "Yang kami perjuangkan",
+    "headline": "Sebuah rumah yang dibangun atas",
+    "headlineItalic": "empat janji sunyi.",
+    "sub": "Glamour bagi kami bukan kilap. Melainkan keyakinan pada sebuah karya yang akan Anda simpan tiga puluh tahun — lalu diteruskan.",
+    "items": [
+      { "n": "i.",   "title": "Pewarna alami, bukan pigmen",    "body": "Setiap warna yang Anda lihat ditumbuhkan — tidak pernah disintesis. Air yang kami gunakan kembali bersih ke tanah.",                  "pin": "Berkelanjutan" },
+      { "n": "ii.",  "title": "Satu kain, satu musim",          "body": "Kami merilis edisi kecil hanya dua kali setahun. Ketika sebuah karya habis, ia pergi — seperti daun yang membuatnya.",              "pin": "Batch kecil" },
+      { "n": "iii.", "title": "Dibuat oleh enam pasang tangan", "body": "Dari pemetik hingga finisher, pengrajin kami adalah mitra — dibayar di atas upah hidup Jawa Timur, dengan bagian dari setiap penjualan.", "pin": "Kerajinan adil" },
+      { "n": "iv.",  "title": "Bespoke disambut",               "body": "Kirimkan daun dari kebun Anda dan kami akan menenunnya menjadi sebuah karya yang benar-benar milik Anda.",                             "pin": "Komisi" }
+    ]
+  },
+  "contact": {
+    "eyebrow": "Hubungi",
+    "headline": "Mulai sebuah karya",
+    "headlineItalic": "milik Anda.",
+    "body": "Setiap karya Wewarna dimulai dari percakapan. Ceritakan tentang kain yang Anda impikan — sebuah daun, kenangan, sebuah kesempatan — dan atelier kami akan memandu Anda melalui kain, ukuran dan penyelesaian di WhatsApp.",
+    "cta": "Chat dengan kami di WhatsApp",
+    "atelier": ["Jl. Anggrek No. 12", "Blitar, Jawa Timur"],
+    "atelierLabel": "Atelier",
+    "whatsappLabel": "WhatsApp",
+    "emailLabel": "Email",
+    "instagramLabel": "Instagram",
+    "email": "halo@wewarna.co.id",
+    "instagram": "@wewarnaecoprint",
+    "instagramUrl": "https://instagram.com/wewarnaecoprint"
+  },
+  "footer": {
+    "tagline": "Blitar, ID",
+    "copyright": "© 2026 · Dibuat dengan sabar",
+    "links": [
+      { "label": "Koleksi",   "anchor": "collection" },
+      { "label": "Kisah",     "anchor": "story" },
+      { "label": "Kerajinan", "anchor": "process" },
+      { "label": "Kontak",    "anchor": "contact" }
+    ]
+  },
+  "whatsapp": {
+    "number": "6281252762200",
+    "displayNumber": "+62 812 5276 2200",
+    "defaultMessage": "Halo Wewarna, saya ingin bertanya tentang produk Anda."
+  }
+}
