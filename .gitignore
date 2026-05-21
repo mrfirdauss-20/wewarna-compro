@@ -3,3 +3,5 @@ dist/
 .env.admin
 *.local
 .DS_Store
+docs/
+.claude/
