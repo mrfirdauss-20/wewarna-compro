@@ -340,7 +340,7 @@ async function main() {
   })
 
   server.listen(port, '127.0.0.1', () => {
-    console.log(`EverNode admin listening on http://localhost:${port}`)
+    console.log(`Wewarna admin listening on http://localhost:${port}`)
     console.log(`Branch: ${branch} · Remote: ${remote}`)
     console.log('Press Ctrl-C to stop.')
   })

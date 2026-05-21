@@ -697,7 +697,7 @@ function viewLogin(errMsg) {
   function doRender() {
     clear(wrap)
     const form = el('form', { class: 'login-form', autocomplete: 'off' },
-      el('h1', {}, 'EverNode Admin'),
+      el('h1', {}, 'Wewarna Admin'),
       el('p', { class: 'muted' }, 'Local-only · 127.0.0.1'),
       el('input', {
         type: 'password',
@@ -774,7 +774,7 @@ function buildTopbar() {
     !hasPendingChanges || otherChanges > 0
 
   return el('header', { class: 'topbar' },
-    el('div', { class: 'brand' }, 'EverNode Admin', el('small', {}, 'content editor')),
+    el('div', { class: 'brand' }, 'Wewarna Admin', el('small', {}, 'content editor')),
     langToggle,
     dirtyLabel,
     el('div', { class: 'spacer' }),
